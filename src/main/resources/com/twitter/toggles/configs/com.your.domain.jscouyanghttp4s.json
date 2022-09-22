@@ -1,0 +1,9 @@
+{
+  "toggles": [
+    {
+      "id": "com.your.domain.jscouyanghttp4s.useDadJoke",
+      "description": "random generate dad joke",
+      "fraction": 0.5
+    }
+  ]
+}
